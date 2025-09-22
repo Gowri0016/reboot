@@ -64,7 +64,7 @@ const Header: React.FC<HeaderProps> = ({ onBookAppointment }) => {
           />
           <div className="custom-header-logo" aria-label="REBOOT logo">
             <span className="custom-header-logo-icon">⏁</span>
-            <span className="custom-header-brand">REBOOT</span>
+            <span className="custom-header-brand">AS KIDS</span>
           </div>
         </div>
         <nav className="custom-header-nav">
