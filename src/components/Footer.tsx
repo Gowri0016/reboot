@@ -33,7 +33,7 @@ const Footer: React.FC = () => (
       <div className="footer-logo-block">
         <div className="footer-logo">
           <span className="footer-logo-icon">⏁</span>
-          <span className="footer-logo-text">REBOOT</span>
+          <span className="footer-logo-text">AS KIDS</span>
         </div>
       </div>
     </div>
